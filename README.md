@@ -1,4 +1,4 @@
-# redistribute-backend
+# badgers-care
 The backend that handles messaging and databasing.
 
 Project forked from Twilio Node.js and Express starter project. 
